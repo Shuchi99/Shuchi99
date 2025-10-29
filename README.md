@@ -15,7 +15,7 @@
 
 <p align="left">💻 Software Engineer | Problem Solver | Tech Enthusiast <br>
 🎓 Master's in Computer Science from the State University of New York at Buffalo with a specialization in Systems. <br>
-💼 2 years of professional experience as a .NET Developer, building scalable and efficient applications. <br>
+💼 3 years of professional experience as a Full Stack Developer, building scalable and efficient applications. <br>
 🚀 Passionate about solving challenging problems and enhancing user experiences. <br>
 🔍 Experienced in collaborative development, and full-stack projects. <br>
 🌱 Dedicated to continuous learning, sharing knowledge, and professional growth. <br>
